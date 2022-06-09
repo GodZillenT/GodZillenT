@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GodZillenT
-- 👀 I’m interested in new ways of coding
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested keep learning as much as possible about computing
+- 🌱 I’m currently finishing my computing studies at UGR
 - 📫 manuelreinaalonso@gmail.com 
 
 <!---
